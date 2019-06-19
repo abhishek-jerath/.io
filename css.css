@@ -1,0 +1,33 @@
+body{
+	background-image: url("background.jpg");
+	background-size: cover;
+}
+h1:hover{
+	background: black;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+}
+p{
+	color:black;
+	text-align: justify;
+	line-height: 20px;
+	font-weight: bold;
+	font-style:italic;
+	font-family: "times new roman",georgia;
+	border: 5px solid rgba(255,0,0,0.5);
+}
+img{
+	left: 17%;
+	top:83%;
+	position: absolute;
+
+}
+footer{
+	clear: both;
+	text-align: left;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
